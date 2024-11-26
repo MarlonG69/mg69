@@ -7,7 +7,9 @@ st.subheader('sub-subtitulo')
 st.markdown('''
 Se puede poner un texo
 **Negrilla**
+
 *Italica*
+
 ***Ambas***
 ''')
 
