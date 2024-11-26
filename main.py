@@ -11,7 +11,20 @@ Se puede poner un texo
 *Italica*
 
 ***Ambas***
+
++ Item 1
+
++ Item 2
+
+:red[Rojo Pasión], con mi negrita
+
 ''')
 
-st. caption('Estudiante de la materia progrmaión')
+st. caption('Estudiante de la materia programaión')
+
+st.latex('mx+b=y')
+
+#imagenes o videos se copia el link
+st.image('https://i.ytimg.com/vi/0VI05oJOhUY/maxresdefault.jpg')
+st.video('https://www.youtube.com/watch?v=ULxjPNTiAZ8')
 
