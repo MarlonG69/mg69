@@ -13,5 +13,5 @@ Se puede poner un texo
 ***Ambas***
 ''')
 
-st. caption('Estudiante de la materia progrmación')
+st. caption('Estudiante de la materia progrmaión')
 
