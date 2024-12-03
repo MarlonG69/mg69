@@ -1,30 +1,11 @@
 import streamlit as st
 
-st.title('Marlon Gómez')
-st.header('subtitulo')
-st.subheader('sub-subtitulo')
+h = st.Page('paginas/historia.py', title='Historia', icon=':material/patient_list:', default=True)
+e = st.Page('paginas/ejemplos.py', title='Ejemplos',icon=':material/cheer:')
+p = st.Page('paginas/practica.py', title='Practica',icon=':material/notifications_active:')
+g = st.Page('paginas/graficas.py', title='Graficas',icon=':material/smart_toy:')
 
-st.markdown('''
-Se puede poner un texo
-**Negrilla**
+pg= st.navigation([h,e,p,g])
 
-*Italica*
-
-***Ambas***
-
-+ Item 1
-
-+ Item 2
-
-:red[Rojo Pasión], con mi negrita
-
-''')
-
-st. caption('Estudiante de la materia programaión')
-
-st.latex('mx+b=y')
-
-#imagenes o videos se copia el link
-st.image('https://i.ytimg.com/vi/0VI05oJOhUY/maxresdefault.jpg')
-st.video('https://www.youtube.com/watch?v=ULxjPNTiAZ8')
+pg.run()
 
