@@ -1,5 +1,16 @@
 import streamlit as st
 
+st.subheader('Creador: Marlon Gómez')
+st.markdown('''
+Estudiante de matemáticas de la UIS, interesado en el aprendizaje continuo
+de esta hermosa ciencia, con afinidad en Cálculo.
+En mi tiempo libre disfruto ver series o peliculas, una buena plática y cocinar.
+En mi paso por la materia de Programación1, aprendi conceptos basicos de programación
+hasta llegar a python, donde aborde temas como 
+''')
+
+
+st.divider()
 st.title('**Historia del Teorema de Pitagoras**')
 
 
@@ -43,3 +54,4 @@ Aguilera, C. (2024). Teorema de Pitágoras: Qué es, algunas demostraciones y ej
 
 Sáenz,E. (2021) ¿Por qué es tan importante el TEOREMA DE PITÁGORAS?. https://www.youtube.com/watch?v=4I6YIccTkcA
 ''')
+
