@@ -10,10 +10,8 @@ hasta llegar a python, donde comencé con programas basicos, realizar graficos
 y cálculos, conjuntos de datos y por ultimo esta página que espero disfruten y les sea util.
 ''')
 
-
 st.divider()
 st.title('**Historia del Teorema de Pitagoras**')
-
 
 st.markdown('''
 El teorema de Pitágoras era conocido por las culturas de China, Mesopotamia y Egipto, aunque no lo utilizaban formalmente; solo sabían que ciertos números cumplían propiedades geométricas en un triángulo. El teorema como tal fue descubierto alrededor del año 500 a.c. por Pitágoras y los pitagóricos, quienes dieron la primera demostración formal del mismo.
