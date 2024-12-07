@@ -5,9 +5,9 @@ st.markdown('''
 Estudiante de matemáticas de la UIS, interesado en el aprendizaje continuo
 de esta hermosa ciencia, con afinidad en Cálculo.
 En mi tiempo libre disfruto ver series o peliculas, una buena plática y cocinar.
-En mi paso por la materia de Programación1, aprendi conceptos basicos de programación
-hasta llegar a python, donde aprendi a reaizar programas basicos, realizar graficos
-y cálculos, conjuntos de datos y por ultimo esta página que estan viendo.
+En mi paso por la materia de Programación1, aprendí conceptos basicos, diagramas de flujo y pseudocódigo,
+hasta llegar a python, donde comencé con programas basicos, realizar graficos
+y cálculos, conjuntos de datos y por ultimo esta página que espero disfruten y les sea util.
 ''')
 
 
